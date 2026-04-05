@@ -24,7 +24,7 @@ Built as part of my frontend web development learning journey.
 Simply open `index.html` in any browser — no installations needed.
 
 Or visit the live site:
-🔗 https://theerthasnair00-cpu.github.io
+🔗  github.com/theerthasnair00-cpu
 
 ## Contact
 - 📧 theerthasnair00@gmail.com
