@@ -209,6 +209,12 @@
       border: 1px dashed rgba(167,139,250,0.1);
       animation: spin 16s linear infinite reverse;
     }
+    .hero-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
     @keyframes spin { to { transform: rotate(360deg); } }
     .photo-name { font-size: 0.78rem; color: var(--muted); font-weight: 500; letter-spacing: 0.06em; }
 
@@ -447,7 +453,9 @@
           </div>
         </div>
         <div class="hero-photo-wrap">
-          <div class="hero-avatar">T</div>
+         <div class="hero-avatar">
+              <img src="your-photo.jpg" alt="Theertha S Nair" />
+          </div>
           <div class="photo-name">Theertha S Nair</div>
         </div>
       </div>
